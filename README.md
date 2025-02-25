@@ -17,4 +17,9 @@ https://gltf.pmnd.rs/ (for converting .glb to jsx)
 
 https://github.com/pmndrs
 
+https://gltf.report/
+https://gltf-viewer.donmccurdy.com/
+https://gltf.pmnd.rs/
+
+
 Special thanks to Engineer Codewala(https://www.youtube.com/watch?v=1ahs5R1mPhw)
